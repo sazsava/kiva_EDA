@@ -1,5 +1,5 @@
-## Exploratory data analysis -Kiva.org
-#  1. Kiva и ее деятельность
+# Exploratory data analysis -Kiva.org
+##  1. Kiva и ее деятельность
 ***
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kiva.org_logo_2016.svg/640px-Kiva.org_logo_2016.svg.png" width="500" height="200" />
 
